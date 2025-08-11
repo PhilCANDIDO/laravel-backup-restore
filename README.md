@@ -400,11 +400,11 @@ If you discover any security-related issues, please email support@emerging-it.fr
 
 ## 📚 Documentation
 
-For detailed documentation, visit [https://docs.mydatabase.com/backup-restore](https://docs.mydatabase.com/backup-restore)
+For detailed documentation, see [docs/BACKUP_README.md](docs/BACKUP_README.md)
 
 ## 💬 Support
 
-- Documentation: [https://docs.mydatabase.com](https://docs.mydatabase.com)
+- Documentation: [docs/BACKUP_README.md](docs/BACKUP_README.md)
 - Issues: [GitHub Issues](https://github.com/PhilCANDIDO/laravel-backup-restore.git/issues)
 - Discussions: [GitHub Discussions](https://github.com/PhilCANDIDO/laravel-backup-restore.git/discussions)
 - Email: support@emerging-it.fr
