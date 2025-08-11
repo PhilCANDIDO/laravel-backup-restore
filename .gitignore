@@ -22,3 +22,5 @@ Thumbs.db
 .php-cs-fixer.cache
 .phpstan/
 setup-package.sh
+.claude
+.claude/
